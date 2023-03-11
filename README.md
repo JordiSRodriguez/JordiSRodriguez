@@ -11,10 +11,6 @@
 - 🔭 Studying/Working: **Multiplatform Development Degree** at [Cesur](https://www.cesurformacion.com/centros/madrid/plaza-eliptica) and looking for a company to do my practicum.
 - 🌱 Learning: **React.js, Node.js, Python**
 - 👾 Interested in: **Coding, Cibersecurity, IA, Blockchain**
-- 📫 Contact: <a href="https://www.linkedin.com/in/jordi-sumba">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="LinkedIn" alt="Linkedin" height="20px" width="20px"/>Jordi Sumba</a>
-  <a href="mailto:jordisumba@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" title="Gmail" alt="Gmail" height="20px" width="20px"/></a>jordisumba@gmail.com
 - 🌐 Portfolio: **Currently Developing**
 
 ### Languages and Tools:
@@ -52,4 +48,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="Jetbrains IDEs" alt="Jetbrains IDEs" height="40px"      width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" height="40px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="40px" width="40px"/>
+</div>
+
+### Contact me
+<div align="left">
+<a href="https://www.linkedin.com/in/jordi-sumba">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="LinkedIn" alt="Linkedin" height="40px" width="40px"/></a>
+  <a href="mailto:jordisumba@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" title="jordisumba@gmail.com" alt="Gmail" height="40px" width="40px"/></a>
 </div>
