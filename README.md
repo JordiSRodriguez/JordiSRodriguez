@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" title"Coding" alt="Coding" width="300px" />
-  <h1>Hi 👋, I'm Jordi-dev</h1>
+  <h1>Hi 👋, I'm jordi-dev</h1>
   <h3>A FullStack Developer Student based in Madrid, Spain. I love coding in my free time and spend loads of time resolving problems, I'm all the time trying to learn and improve my skills.</h3>
  </div>
  
