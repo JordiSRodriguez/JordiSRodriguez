@@ -8,8 +8,8 @@
 
 ### About me:
 
-- 🔭 Studying/Working: **Multiplatform Development Degree** at [Cesur](https://www.cesurformacion.com/centros/madrid/plaza-eliptica) and looking for a company to do my practicum.
-- 🌱 Learning: **React.js, Node.js, Python**
+- ⌨️ Studying/Working: **Multiplatform Development Degree** at [Cesur](https://www.cesurformacion.com/centros/madrid/plaza-eliptica) and looking for a company to do my practicum.
+- 🌱 Currently Learning: **React.js, Node.js, Python**
 - 👾 Interested in: **Coding, Cibersecurity, IA, Blockchain**
 - 🌐 Portfolio: **Currently Developing**
 
