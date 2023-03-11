@@ -8,7 +8,7 @@
 
 ### About me:
 
-- 🔭 Studying/Working: **Multiplatform Development Degree** and looking for a company to do my practicum.
+- 🔭 Studying/Working: **Multiplatform Development Degree** at [Cesur](https://www.cesurformacion.com/centros/madrid/plaza-eliptica) and looking for a company to do my practicum.
 - 🌱 Learning: **React.js, Node.js, Python**
 - 👾 Interested in: **Coding, Cibersecurity, IA, Blockchain**
 - 📫 Contact: <a href="https://www.linkedin.com/in/jordi-sumba">
