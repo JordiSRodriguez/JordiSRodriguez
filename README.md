@@ -11,7 +11,7 @@
 - ⌨️ Studying/Working: **Multiplatform Development Degree** at [Cesur](https://www.cesurformacion.com/centros/madrid/plaza-eliptica) and looking for a company to do my practicum.
 - 🌱 Currently Learning: **React.js, Next.js and Python**
 - 👾 Interested in: **Coding, Cibersecurity, IA, Blockchain**
-- 🌐 Portfolio: **(https://jordisrodriguez.github.io/)**
+- 🌐 Portfolio: **https://jordisrodriguez.github.io/**
 
 ### Languages and Tools:
 <div id="languages" align="center">
