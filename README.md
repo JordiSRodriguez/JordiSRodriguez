@@ -9,7 +9,7 @@
 ### About me:
 
 - ⌨️ Studying/Working: **Multiplatform Development Degree** at [Cesur](https://www.cesurformacion.com/centros/madrid/plaza-eliptica) and looking for a company to do my practicum.
-- 🌱 Currently Learning: **React.js, Node.js, Python**
+- 🌱 Currently Learning: **React.js and Python**
 - 👾 Interested in: **Coding, Cibersecurity, IA, Blockchain**
 - 🌐 Portfolio: **Currently Developing**
 
@@ -19,7 +19,6 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" alt="React.js" height="40px" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" height="40px" width="40px"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord.js" alt="Discord.js" height="40px" width="40px"/>
   
