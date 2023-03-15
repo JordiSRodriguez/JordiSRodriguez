@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-<h3>Contact me</h3>
+<h2>Contact me</h2>
 <a href="https://www.linkedin.com/in/jordi-sumba">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="LinkedIn" alt="Linkedin" height="40px" width="40px"/></a>
   <a href="mailto:jordisumba@gmail.com">
