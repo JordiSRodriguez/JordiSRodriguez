@@ -49,8 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="40px" width="40px"/>
 </div>
 
+<div align="center">
 ### Contact me
-<div align="left">
 <a href="https://www.linkedin.com/in/jordi-sumba">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="LinkedIn" alt="Linkedin" height="40px" width="40px"/></a>
   <a href="mailto:jordisumba@gmail.com">
