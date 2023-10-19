@@ -8,7 +8,7 @@
 
 ### About me:
 
-- ⌨️ Studying/Working: **Multiplatform Development Degree** at [Cesur](https://www.cesurformacion.com/centros/madrid/plaza-eliptica) and working on practices at [Soamee](https://soamee.com/)
+- ⌨️ Studying/Working: **Multiplatform Development Degree** at [Cesur](https://www.cesurformacion.com/centros/madrid/plaza-eliptica) and doing an internship at [Soamee](https://soamee.com/)
 - 🌱 Currently Learning: **Nest.js, Node.js, React.js, Next.js**
 - 👾 Interested in: **Coding, Cibersecurity, IA, Blockchain**
 - 🌐 Portfolio: **https://jordisrodriguez.github.io/**
