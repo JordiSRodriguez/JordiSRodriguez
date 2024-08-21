@@ -1,16 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" title"Coding" alt="Coding" width="300px" />
-  <h1>Hi 👋, I'm jordi-dev</h1>
-  <h3>A FullStack Developer Student based in Madrid, Spain. I love coding in my free time and spend loads of time resolving problems, I'm all the time trying to learn and improve my skills.</h3>
+  <h1>Hi 👋, I'm Jordi</h1>
+  <h3>A FullStack Developer based in Madrid, Spain. I love coding in my free time and spend loads of time resolving problems, I'm all the time trying to learn and improve my skills.</h3>
  </div>
  
 ---
 
 ### About me:
 
-- ⌨️ Studying/Working: **Multiplatform Development Degree** at [Cesur](https://www.cesurformacion.com/centros/madrid/plaza-eliptica) and doing an internship at [Soamee](https://soamee.com/)
+- ⌨️ Studying/Working: **Multiplatform Development Degree** at [Cesur](https://www.cesurformacion.com/centros/madrid/plaza-eliptica) and currently working at Zerintia
 - 🌱 Currently Learning: **Nest.js, Node.js, React.js, Next.js**
-- 👾 Interested in: **Coding, Cibersecurity, IA, Blockchain**
+- 👾 Interested in: **Coding, Cibersecurity, AI, Blockchain**
 - 🌐 Portfolio: **https://jordisrodriguez.github.io/**
 
 ### Languages and Tools:
